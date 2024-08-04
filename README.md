@@ -16,15 +16,6 @@ House of Movies is a React-based web application where users can browse a list o
 - Styling: CSS, React-Bootstrap, Material-UI
 - Icons: FontAwesome
 
-## Installation
-
-### Backend
-
-1. Ensure you have Java and Maven installed.
-2. Clone the repository and navigate to the `Backend` directory.
-3. Build the project using Maven:
-   ```sh
-   mvn clean install
 
 │
 
