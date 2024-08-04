@@ -17,5 +17,4 @@ House of Movies is a React-based web application where users can browse a list o
 - Icons: FontAwesome
 
 
-│
-Sample data: movies_raw_data
+### Sample data: movies_raw_data
